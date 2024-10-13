@@ -1,14 +1,14 @@
 Hi there 👋
 
-Eu sou Samuel F. Dias, sou um Programador Front-End, no momento estou aprendendo e criando projetos com:
+I am Samuel F. Dias, a Front-End developer. At the moment, I am learning and creating projects with the following technologies:
 
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 * <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
--Em breve iniciando no Back-End:
+-Starting Back-End soon!
 
-No caminho para me tornar um Programador FULL-STACK!
+ On my way to becoming a Full-Stack developer!
 
 
 <!--
