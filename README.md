@@ -8,7 +8,7 @@ I am Samuel F. Dias, a Front-End developer. At the moment, I am learning and cre
 
 -Starting Back-End soon!
 
- On my way to becoming a Full-Stack developer!
+ On my way to become a Full-Stack developer!
 
 
 <!--
