@@ -22,8 +22,8 @@ Apaixonado por tecnologia e desenvolvimento web, com foco em criar experiências
 - Conseguir minha primeira oportunidade como desenvolvedor
 
 ### 📫 Como me encontrar:
-- 📧 Email: [samuelfd91@hotmail.com]
-- 💼 LinkedIn: [www.linkedin.com/in/samuelfernandodias]
+- 📧 Email: [samuelfd91@hotmail.com] (mailto:samuelfd91@hotmail.com)
+- 💼 LinkedIn: [Samuel Fernando Dias] (www.linkedin.com/in/samuelfernandodias)
 - 🌐 Portfólio: [em breve]
 
 ### 📊 Estatísticas GitHub:
