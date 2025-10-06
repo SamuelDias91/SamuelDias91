@@ -1,14 +1,37 @@
-Hi there 👋
+# 👋 Olá! Eu sou Samuel F. Dias
 
-I am Samuel F. Dias, a Front-End developer. At the moment, I am learning and creating projects with the following technologies:
+## 🚀 Desenvolvedor Front-End em transição para Full-Stack
 
-* <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-* <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-* <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+Apaixonado por tecnologia e desenvolvimento web, com foco em criar experiências digitais incríveis e funcionais.
 
--Starting Back-End soon!
+### 💻 Tecnologias que domino:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
- On my way to become a Full-Stack developer!
+### 📚 Atualmente estudando:
+- ⚛️ React.js (Hooks, Router, Context API)
+- 🎨 Design Responsivo e Mobile-First
+- 🔄 Consumo de APIs REST
+- 🚀 Em breve: Node.js e Back-End
+
+### 🎯 Objetivos:
+- Me tornar um Desenvolvedor Full-Stack
+- Contribuir em projetos open source
+- Conseguir minha primeira oportunidade como desenvolvedor
+
+### 📫 Como me encontrar:
+- 📧 Email: [samuelfd91@hotmail.com]
+- 💼 LinkedIn: [www.linkedin.com/in/samuelfernandodias]
+- 🌐 Portfólio: [em breve]
+
+### 📊 Estatísticas GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelDias91&show_icons=true&theme=radical)
+
+---
+
+💡 *"Em transição de carreira, buscando minha primeira oportunidade como desenvolvedor. 1 ano e 7 meses de estudos intensivos."*
 
 
 <!--
